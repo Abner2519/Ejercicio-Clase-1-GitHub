@@ -1,0 +1,6 @@
+Mi primera prueba de repositorio :D
+git init 
+git add .
+commit -m "Buenas"
+git remote add origin https://github.com/Abner2519/Ejercicio-Clase-1-GitHub.git  
+git push -u origin master 
