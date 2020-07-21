@@ -1,0 +1,6 @@
+Esto es una prueba 
+git init 
+git add. 
+commit -m "comentario"
+git remote add origin https://github.com/Abner2519/Primera-Clase-GitHub.git
+git push -u origin master 
